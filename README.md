@@ -1,0 +1,1 @@
+In this project I analyzed a diabetes dataset using logistic regression.  I  recoded some variables to fit the analysis, performed null model, one predictor model, multiple regression, McFadden's r-squared, c-statistic, Hosmer-Lemeshow statistic and test, Hosmer and Lemeshow  goodness of fit (GOF) test.
